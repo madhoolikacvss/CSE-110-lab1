@@ -16,7 +16,7 @@ Or maybe you prefer a direct link to the section [Section link](https://docs.git
 
 Here is how I feel about this assignment ![hehe](https://www.essex.ac.uk/-/media/images/blogs/posts/2017-04-07-meme-5.jpg)
 
-I baked **SOME CUPCAKES ** for my friend yesterday, so here is how it went
+I baked **SOME CUPCAKES** for my friend yesterday, so here is how it went
 1. Took cake mix
 2. Read instructions
 3. Ignored the instructions and threw the box away 
@@ -24,17 +24,17 @@ I baked **SOME CUPCAKES ** for my friend yesterday, so here is how it went
 5. Poured in milk and hope 
 6. Mixed until my hand hurt 
 7. Dumped it gently into a cupcake mould 
-8. Checked it into my instant pot cause I dont have an oven 
-9. Pressure cooked it for 19 mins 
-10. Put come icing on it until it covered up all of my mistakes 
+8. Checked it into my Instant Pot cause I don't have an oven 
+9. Pressure cook it for 19 mins 
+10. Put some icing on it until it covers up all of my mistakes 
     
-Hey they did turn out to ~~be cute~~ look cute, not sure about the taste 
+Hey they did turn out to ~~be delicious~~ look cute, not sure about the taste 
 If you want to see how they look, follow the procedure below:
-- Follow me on my instagram (I wont give you my id, Sherlock Holmes)
-* Subscribe to my youtube (I dont have one)
+- Follow me on my Instagram (I won't give you my id, Sherlock Holmes)
+* Subscribe to my YouTube (I don't have one)
 + Send me $50
 
-Ending my assignment with some self-care chechlick for you:
+Ending my assignment with some self-care checklist for you:
 
 - [ ] Had breakfast?
 - [ ] Showered
@@ -47,4 +47,4 @@ Ending my assignment with some self-care chechlick for you:
 
 
 Thank you!!
-(SOrry this assignment was so trash, but it has all the componenets it needs to have I swear)
+(SO sorry this assignment was so trash, but it has all the components it needs to have I swear)
