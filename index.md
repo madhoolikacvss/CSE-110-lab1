@@ -10,11 +10,11 @@ git status
 git add
 git commit
 ```
-(Copied directly from [Granpa's own website] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+(Copied directly from [Granpa's own website](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
 
 Or maybe you prefer a direct link to the section [Section link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-code)
 
-Here is how I feel about this assignment ![hehe](C:\Users\Madhoolika\CSE-110-lab1\2017-04-07-meme-5.jpg)
+Here is how I feel about this assignment ![hehe](https://www.essex.ac.uk/-/media/images/blogs/posts/2017-04-07-meme-5.jpg)
 
 I baked **SOME CUPCAKES ** for my friend yesterday, so here is how it went
 1. Took cake mix
